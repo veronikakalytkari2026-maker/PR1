@@ -6,6 +6,7 @@ int main()
 {
     cout << "Hi, World!" << endl;
 
+    // Обчислення добутку чисел від 1 до 10
     int p = 1;
     int i = 1;
 
