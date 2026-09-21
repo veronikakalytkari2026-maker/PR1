@@ -16,6 +16,7 @@ int main()
         i++;
     };
     cout << "p = " << p << " i = " << i << endl;
+    cout << "Зміна після копіювання репозиторію" << endl;
     system("pause");
     return 0;
 }
