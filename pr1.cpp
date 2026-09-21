@@ -16,7 +16,9 @@ int main()
         i++;
     };
     cout << "p = " << p << " i = " << i << endl;
+    cout << "Зміна після копіювання репозиторію" << endl;
     system("pause");
     cout << "Новий коміт у main" << endl;
     return 0;
 }
+// Зміна в гілці branch_02
