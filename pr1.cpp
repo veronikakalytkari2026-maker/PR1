@@ -17,6 +17,7 @@ int main()
     };
     cout << "p = " << p << " i = " << i << endl;
     cout << "Зміна після копіювання репозиторію" << endl;
+    cout << "Зміна на віддаленому репозиторії" << endl;
     system("pause");
     cout << "Новий коміт у main" << endl;
     return 0;
