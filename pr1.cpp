@@ -20,4 +20,3 @@ int main()
     return 0;
 }
 // Зміна в гілці branch_02
-// Друга зміна в гілці branch_02
