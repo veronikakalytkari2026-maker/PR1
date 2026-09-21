@@ -19,3 +19,4 @@ int main()
     system("pause");
     return 0;
 }
+// Зміна в гілці branch_02
